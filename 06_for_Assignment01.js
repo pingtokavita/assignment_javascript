@@ -13,8 +13,8 @@ for (let index = 1; index <=15; index=index+2) {
     console.log( index);
         
     }
-console.log(`4. WAP to find first 10 even numbers`);
-for (let index = 5; index <=15; index++) {
+console.log(`4. WAP to find first 15 even numbers`);
+for (let index = 0; index <=15; index=index+2) {
     console.log( index);
         
     }
